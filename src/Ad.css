@@ -1,0 +1,18 @@
+.ad {
+    display: grid;
+    position: absolute;
+    justify-content: center;
+    z-index: 6;
+    width: 200px;
+    height: 1042px;
+    margin: 0;
+    margin-top: 0px;
+    margin-left: 0;
+    padding: 0;
+    /*ad-russia.png   /// ad-ukraine.png   */
+    background-image: url('../public/ad-ukraine.png'); 
+  }
+  /* url('https://sputnik.kz/img/458/96/4589637_0:155:3072:1892_600x0_80_0_0_a212efa374da1fdf5962c4a339bfc604.jpg') */
+.ad:hover{
+  cursor: pointer;
+}

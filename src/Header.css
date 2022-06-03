@@ -1,0 +1,23 @@
+.header{
+    background-color: #f7d000;
+    background-image: url('https://img.12go.co/0/fit/1024/0/ce/1/plain/s3://12go-web-static/static/images/upload-media/4384.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+}
+
+.header h1 {
+    background-color: #0053b1dc;
+    color: #fff;
+    padding: 0 1rem;
+    position: absolute;
+    top: 3rem; 
+    left: 4rem;
+    /* margin-top: 0;
+    padding: 100px;
+    background-color: #0053b1dc;
+    width: 300px;
+    height: 50px; */
+}
