@@ -6,7 +6,7 @@ const username = "Andriy"
 //міняти ці переменні в 19 строчці
 
 const COUNTRY_UKRAINE = "УКРАЇНИ"  
-const COUNTRY_RUSSIA = "Россії"
+const COUNTRY_RUSSIA = "РОСІЇ"
 
 const ukr = "https://hromadske.ua/"
 const rus = "https://www.currenttime.tv/"
