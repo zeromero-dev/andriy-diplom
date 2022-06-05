@@ -5,6 +5,7 @@ import Ad from './Ad'
 import Header from './Header'
 import Nav from './Nav'
 import Main from './Main'
+// import Geo from './Geo'
 
 import './index.css'
 
@@ -21,6 +22,7 @@ const App = () => {
       <Nav />
       <Ad />
       <Main />
+      {/* <Geo /> */}
     </div>  
   )
 }

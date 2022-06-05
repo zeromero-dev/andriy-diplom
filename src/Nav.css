@@ -3,6 +3,9 @@
     height: 50px;
     background: #f7d200ee;
     postion: fixed;
-    /* margin-top: 255px; */
     z-index: 10;
+    font-size: large;
+    padding-left: 10px;
+    padding-top: 13px;
+    border-width: 10px;
 }
