@@ -16,3 +16,15 @@
 .ad:hover{
   cursor: pointer;
 }
+
+.rus {
+  background-image: url('../public/ad-russia.png')
+}
+
+.au{
+  background-image: url('../public/ad-australia.png')
+}
+
+.is{
+  background-image: url('../public/ad-israel.png')
+}
